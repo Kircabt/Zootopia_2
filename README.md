@@ -1,0 +1,1 @@
+The Animal Finder CLI/API integration is a lightweight tool that connects with the API Ninjas Animals API to retrieve comprehensive taxonomic data, characteristics, and geographic locations by querying an animal name or type. It provides structured JSON output and includes setup instructions for both Node.js and Python environments.
